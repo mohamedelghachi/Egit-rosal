@@ -4,10 +4,10 @@ import java.util.*;
 public class EnumeratingkL {
 
 	public static void po(int n, String[] tab, String res,BufferedWriter out) throws IOException {
-		out.write(res+"\n");
+//		out.write(res+"\n");
 //		System.out.println(res);
 		if (n == 0) {
-//			System.out.println(res);
+			System.out.println(res);
 		}
 		else{
 			for (int i = 0; i < tab.length; i++) {
