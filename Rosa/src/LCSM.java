@@ -70,7 +70,7 @@ public class LCSM {
 			if(!b[u])
 			{
 				System.out.println(liste.get(u));
-				break;
+//				break;
 			}
 			u++;
 		}
